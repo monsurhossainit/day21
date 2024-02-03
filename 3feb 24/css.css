@@ -1,0 +1,19 @@
+.main:hover .span {
+    display: block;
+    
+  }
+  .main {
+    text-align: center;
+    background-color: aqua;
+    font-size: xx-large;
+    
+  }
+
+  .span {
+    
+    background-color: bisque;
+    
+    margin: 0 5px;
+    display: none;
+
+  }
